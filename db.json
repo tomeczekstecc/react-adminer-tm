@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post Oned",
+      "body": "This is a body post 1",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is a body post 2",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is a body post 3",
+      "publishedAt": "11-01-2020"
+    },
+    {
+      "title": "fwefewf",
+      "body": "fwefewf",
+      "id": "LMIASje"
+    },
+    {
+      "body": "dasda",
+      "title": "dsadasd",
+      "publishedAt": "2020-10-01",
+      "id": "paz0EYh"
+    },
+    {
+      "title": "jnkjh",
+      "body": "fwefewf",
+      "publishedAt": "2020-10-07",
+      "id": "yKmAasq"
+    }
+  ],
+  "users": [
+    {
+      "id": "rgwrt",
+      "name": "Tomasz Steć",
+      "email": "tomeczekstecc@gmail.com"
+    },
+    {
+      "name": "wqdewqd",
+      "email": "qwdqwdq",
+      "id": "KqStot3"
+    },
+    {
+      "name": "newcodes.pl.",
+      "email": "tom@gmail.com",
+      "id": "uTn8tdZ"
+    }
+  ]
+}
